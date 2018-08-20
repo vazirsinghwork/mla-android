@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Loyalty</string>
+
+    <string name="headquarters">Headquarters</string>
+
+    <string name="total_unique">Total unique number of customers:</string>
+    <string name="new_customers">New customers signed up in the past:</string>
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="check_in">Check-in stats for the past:</string>
+    <string name="all_locations">All Locations</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="analytics">Analytics</string>
+</resources>
